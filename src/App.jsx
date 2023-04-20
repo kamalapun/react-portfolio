@@ -32,7 +32,7 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">KAMALA PUN</h6>
-        <p>learningReact © All CopyRights Reserved 2023</p>
+        <p> © All CopyRights Reserved 2023</p>
       </footer>
     </div>
   );

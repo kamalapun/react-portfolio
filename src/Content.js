@@ -218,9 +218,9 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "pun.kamala178@gmail.com",
+        text: "kamala.pun0423@gmail.com",
         icon: GrMail,
-        link: "mailto:pun.kamala178@gmail.com",
+        link: "mailto:kamala.pun0423@gmail.com",
       },
       {
         text: "+91 1234 56778",
